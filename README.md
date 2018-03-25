@@ -19,4 +19,4 @@ About Project:
 		We didnt complete our project its just a proto type. We will submit soon..
 		We created two characters Admin and Student. If you select admin as a Division username is "Admin" and password is "1234". 		   If you select Student as a  Division usernames are "Student1" and "Student2"  password is "12345".
 		
-		Basically this Project Frames are undecorated but Dragable.
+		Basically this Project Frames are undecorated but Dragable. we used filehandling to manage the system.Students inputs are 			store into txt file and the file name is student's registration id. 
